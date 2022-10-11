@@ -1,0 +1,6 @@
+com\balls\controller\UserInfoController.class
+com\balls\controller\CommonController.class
+com\balls\controller\ManagerController.class
+com\balls\controller\RelationController.class
+com\balls\controller\ArticleController.class
+com\balls\controller\LoginController.class

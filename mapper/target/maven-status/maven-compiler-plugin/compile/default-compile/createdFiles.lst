@@ -1,0 +1,4 @@
+com\balls\mapper\RelationMapper.class
+com\balls\mapper\UserInfoMapper.class
+com\balls\mapper\ArticleMapper.class
+com\balls\mapper\LoginMapper.class
